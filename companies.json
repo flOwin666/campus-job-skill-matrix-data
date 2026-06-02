@@ -7,7 +7,6 @@
     "seedUrl": "https://talent.baidu.com/jobs/list?search=AI&type=INTERN",
     "detailUrlTemplate": "https://talent.baidu.com/jobs/detail/INTERN/{jobId}",
     "skills": [
-      "666",
       "AIGC",
       "ASIC",
       "Agent",
@@ -125,7 +124,6 @@
       "推荐"
     ],
     "skills": [
-      "666",
       "AIGC",
       "Agent",
       "C++",
@@ -206,7 +204,6 @@
     ],
     "jobIdFromUrl": true,
     "skills": [
-      "666",
       "AIGC",
       "Agent",
       "C++",
@@ -287,7 +284,6 @@
     ],
     "jobIdFromUrl": true,
     "skills": [
-      "666",
       "AIGC",
       "Agent",
       "C++",
@@ -379,7 +375,6 @@
       "推荐"
     ],
     "skills": [
-      "666",
       "AIGC",
       "Agent",
       "C++",
